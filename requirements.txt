@@ -1,0 +1,9 @@
+matplotlib == 3.2.2
+moviepy == 1.0.3
+numpy == 1.18.5
+opencv-python == 4.4.0.46
+pillow == 7.2.0
+pytorch-lightning == 1.0.4
+torch == 1.7.1+cu101
+torchvision 0.8.2+cu101
+yaml = 0.2.5
